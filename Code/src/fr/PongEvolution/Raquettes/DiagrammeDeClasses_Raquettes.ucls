@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.10" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="fr.PongEvolution.Raquettes.RaquetteVerticale" project="Pong_Evolution" 
+    file="/Pong_Evolution/src/fr/PongEvolution/Raquettes/RaquetteVerticale.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="207" width="553" x="-595" y="1168"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="fr.PongEvolution.Raquettes.RaquetteIAHorizontaleBarriere" project="Pong_Evolution" 
+    file="/Pong_Evolution/src/fr/PongEvolution/Raquettes/RaquetteIAHorizontaleBarriere.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="99" width="586" x="515" y="1716"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="fr.PongEvolution.Raquettes.Raquette" project="Pong_Evolution" 
+    file="/Pong_Evolution/src/fr/PongEvolution/Raquettes/Raquette.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="1719" width="567" x="-2" y="-591"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="fr.PongEvolution.Raquettes.RaquetteHorizontale" project="Pong_Evolution" 
+    file="/Pong_Evolution/src/fr/PongEvolution/Raquettes/RaquetteHorizontale.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="551" x="269" y="1168"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="fr.PongEvolution.Raquettes.RaquetteIAVerticale" project="Pong_Evolution" 
+    file="/Pong_Evolution/src/fr/PongEvolution/Raquettes/RaquetteIAVerticale.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="548" x="-1183" y="1415"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="fr.PongEvolution.Raquettes.ConfigurationTouches" project="Pong_Evolution" 
+    file="/Pong_Evolution/src/fr/PongEvolution/Raquettes/ConfigurationTouches.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="261" width="319" x="181" y="1415"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="fr.PongEvolution.Raquettes.RaquetteIAHorizontale" project="Pong_Evolution" 
+    file="/Pong_Evolution/src/fr/PongEvolution/Raquettes/RaquetteIAHorizontale.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="117" width="561" x="540" y="1415"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="fr.PongEvolution.Raquettes.RaquetteIAVerticaleBarriere" project="Pong_Evolution" 
+    file="/Pong_Evolution/src/fr/PongEvolution/Raquettes/RaquetteIAVerticaleBarriere.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="99" width="573" x="-1183" y="1716"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="fr.PongEvolution.Raquettes.RaquetteClavierVerticale" project="Pong_Evolution" 
+    file="/Pong_Evolution/src/fr/PongEvolution/Raquettes/RaquetteClavierVerticale.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="171" width="736" x="-595" y="1415"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="fr.PongEvolution.Raquettes.ConfigurationTouchesVerticale" 
+    project="Pong_Evolution" file="/Pong_Evolution/src/fr/PongEvolution/Raquettes/ConfigurationTouchesVerticale.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="207" width="248" x="-207" y="1716"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="11" language="java" name="fr.PongEvolution.Raquettes.Enum_DirBouleEnergie" project="Pong_Evolution" 
+    file="/Pong_Evolution/src/fr/PongEvolution/Raquettes/Enum_DirBouleEnergie.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="171" x="-2" y="1168"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <association id="12">    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="13" name="directionBoulesEnergie"/>      
+      <multiplicity id="14" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="15">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <generalization id="16">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <generalization id="17">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="6"/>  
+  </generalization>  
+  <generalization id="18">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="4"/>  
+  </generalization>  
+  <generalization id="19">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="5"/>  
+  </generalization>  
+  <generalization id="20">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="7"/>  
+  </generalization>  
+  <association id="21">    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="22" name="dirBouleEnergie_DEFAUT"/>      
+      <multiplicity id="23" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="24">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="3"/>  
+  </generalization>  
+  <association id="25">    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="26" name="configurationTouchesVerticale"/>      
+      <multiplicity id="27" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="28">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="3"/>  
+  </generalization>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

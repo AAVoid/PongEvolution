@@ -1,0 +1,232 @@
+
+
+NOMBRE DE LIGNES DE CODE ACTUELLES : 5346 (recherche dans les fichiers expression régulière "\n[\r]*")
+
+RAQUETTE VG :
+Z (90) : faire monter direction boule d'énergie
+S (83) : descendre direction boule d'énergie
+D (68) : tirer boule d'énergie
+A (65) : faire monter la raquette
+Q (81) : faire descendre la raquette
+
+RAQUETTE VD :
+U (85) : faire monter direction boule d'énergie
+J (74) : descendre direction boule d'énergie
+H (72) : tirer boule d'énergie
+I (73) : faire monter la raquette
+K (75) : faire descendre la raquette
+
+
+Touches dédiées pause et capture d'écran
+PAUSE : N
+CAPTURE D'ECRAN : P
+
+
+
+
+
+CREE PAR AYMERIK ABOSO
+
+
+
+
+
+********* BUG/PROBLEMES/CHOSES QUI PEUVENT ETRE CORRIGEES MAIS NON GRAVE :
+
+
+
+
+
+********* TODO :
+Menus
+Plusieurs langues
+Autorisation utilisation musiques épiques
+...
+
+
+
+
+
+
+********* NOM DU JEU : PONG EVOLUTION
+Année 2016 écrit à la fin des CREDITS
+
+
+
+
+********* LANGUE DU JEU : ANGLAIS
+
+
+
+
+********* CREDITS :
+Concept : Aymerik ABOSO
+Developer : Aymerik ABOSO
+Graphics designer : Aymerik ABOSO
+Musics choice : Aymerik ABOSO
+Special thanks to : 
+	Erick STATTNER
+
+
+
+
+********* MUSIQUES : UTILISATION DE JLAYER
+*** (ECRAN TITRE) Generdyn ft Zayde Wolf - Heroes - https://www.youtube.com/watch?v=npKKfjf2EBI
+*** (ECRAN TITRE) BeaT - Celestial Fantasia - https://www.youtube.com/watch?v=OEYox7zoOvU
+*** (DIDACTICIEL) Baccano - Guns & Roses - https://www.youtube.com/watch?v=_F5459jCtuM
+*** (CREDITS) DuckTales - The Moon Theme - https://www.youtube.com/watch?v=Nhy2aNEPshw
+*** (CONFIGURATION - EN JEU) Epic Soul Factory - The Glorious Ones - https://www.youtube.com/watch?v=5eaTnprChio
+*** (EN JEU) Panda Eyes & Teminite - HighScore - https://www.youtube.com/watch?v=2GOETPP-1OE
+
+
+EPIC :
+https://www.youtube.com/watch?v=W3uzwLudRHI
+https://www.youtube.com/watch?v=oWtadc1oxEU
+https://www.youtube.com/watch?v=NzZ421uaX-Q
+https://www.youtube.com/watch?v=tbrIJHhJnoI
+https://www.youtube.com/watch?v=-UOis5aHJ_k
+https://www.youtube.com/watch?v=C0li4N9EQY4
+https://www.youtube.com/watch?v=d8oLbcmTb-U
+
+
+
+
+********* SONS : VOIR LE DOSSIER SONS
+UTILISATION DE : 
+URL url = NomDeTaClasse.class.getRessource("son.waw");
+AudioClip ac = Applet.newAudioCLip(url);
+//pour lancer:
+ac.play();
+//en boucle:
+ac.loop();
+//pour arrêter:
+ac.stop();
++
+Spyro gem sound à raccourcir au maximum pour supprimer le temps mort : https://www.youtube.com/watch?v=Z7gK8NXI4_w
+
+
+
+
+********* MENU PRINCIPAL : 
+*** Contre l'IA
+*** VS (Mode normal)
+*** Entrainement
+*** Didacticiel
+*** Crédits
+
+
+
+
+********* CONFIGURATION AVANT PARTIE :
+*** CHoix du terrain (qui a ses spécificités)
+*** Choix des raquettes (qui a ses spécificités)
+*** Choix de la balle (qui a ses spécificités)
+*** Choix du nombre de points à atteindre pour gagner une partie
+*** Bonus disponibles ou non (tous ou individuellement)
+*** Boules d'énergie disponibles ou non
+
+
+
+
+********* STATISTIQUES DE PARTIES :
+*** Temps de partie
+*** Nombre total de rebonds de balle
+*** Nombre total de boules d'énergie utilisées par joueurs
+*** Nombre total de pouvoirs utilisés par joueurs et par bonus
+
+
+
+
+********* CAPTURE D'ECRAN : 
+Pendant la partie une capture d'écran est faite et stockée dans le dossier Screenshots
+(nommée par rapport à la date de capture) à l'aide de la touche P
+Format du nom du fichier : nomJour numeroJour nomMois annee heureMinuteSecondes.png
+
+
+
+********* PAUSE DE LA PARTIE :
+On peut mettre la partie en pause/reprendre la partie en appuyant sur la touche N
+
+
+
+
+********* TERRAIN :
+*** Plusieurs terrains au choix
+*** Terrains avec caractéristiques (téléportation d'un élément de jeu, 
+	changement direction d'un élément de jeu, ...)
+*** Temps d'attente de 3 secondes avant chaque début de partie/manche
+*** Quantité d'énergie accordée aux raquettes à l'issue de chaque manche (seule 
+	façon pour elle de récupérer de l'énergie)
+*** Barre direction boule d'énergie au choix
+*** La musique jouée durant la partie sur le terrain est sélectionnée aléatoirement 
+	parmis toutes les chansons de musique de terrain
+
+
+
+
+********* BOULES D'ENERGIE :
+*** 3 directions possibles : milieu, haut ou bas
+*** Puissance boule d'énergie : Nombre de secondes pendant lesquelles l'ennemi 
+sera immobilisé s'il est touché (il faut tenir compte de sa défense)
+*** Il y a un temps minimum entre chaque boule d'énergie créee (cadence de tir d'une raquette)
+*** temps (0,1 secondes) entre chaque changement de direction de boules d'énergie par une raquette
+	(la barre)
+*** La vitesse d'une boule d'énergie ne dépend pas de sa taille
+*** Effet sur une raquette 
+*** Effet sur une balle
+*** Si deux boules d'énergie se touchent et qu'elles n'ont pas le même propriétaire :
+	La boule de puissance plus faible est effacée et la puissance de la boule d'énergie
+	effacée est soustraite à celle de la boule d'énergie qui survit
+	Si les deux boules d'énergie ont la même puissance elles sont toutes les deux effacées
+*** Peut toucher et paralyser la raquette qui l'a crée (si une zone de changement de direction
+	la renvoie vers son propriétaire par exemple)
+*** Une boules d'énergie peut avoir une configuration (qui dépend de la raquette).
+	En fonction de la configuration des boules d'énergie dans la raquette, 
+	les boules d'énergie créees seront affectées ou non par les zones d'effet du terrain
+*** Demande une certaine quantité d'énergie à la raquette pour la créer (puissance x 2)
+	
+
+
+
+
+********* RAQUETTES :
+*** Sélection de raquette dont les attributs varient : 
+	Vitesse de déplacement
+	Puissance boule d'énergie
+	Vitesse boule d'énergie
+	Cadence de tir boule d'énergie : une boule d'énergie pourra être crééee
+		au minimum toutes les cadence secondes
+	Defense : pour réduire (éventuellement jusqu'à zéro) le temps de paralysie
+		après s'être fait touché par une boule d'énergie
+*** Choix direction boule d'énergie
+*** Effet sur une balle
+*** Effet après collision avec boule d'énergie
+*** Energie pour pouvoir créer des boules d'énergie
+
+
+
+
+********* BALLE :
+*** La vitesse de la balle augmente à chaque contact une raquette
+	augmentation vitesse verticale si contact avec raquette haute ou basse, 
+	augmentation vitesse horizontale si contact avec raquette gauche ou droite
+*** La vitesse maximale de la balle dépend de sa taille.
+	Une balle plus petite ira plus lentement
+*** Effet lors de la collision avec une boule d'énergie
+*** Effet lors de la collision avec une raquette
+*** Une balle a une configuration (lors de sa création) qui détermine si la balle
+	est affectée ou non par les zones d'effet du terrain
+
+
+
+
+
+
+
+
+
+
+
+
+
+

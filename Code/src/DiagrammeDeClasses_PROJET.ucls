@@ -1,0 +1,579 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.10" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <enumeration id="1" language="java" name="fr.PongEvolution.BoulesEnergie.Enum_DirectionBouleEnergie" 
+    project="Pong_Evolution" file="/Pong_Evolution/src/fr/PongEvolution/BoulesEnergie/Enum_DirectionBouleEnergie.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="426" x="118" y="-219"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="2" language="java" name="fr.PongEvolution.Terrains.ZoneChangementDirection" project="Pong_Evolution" 
+    file="/Pong_Evolution/src/fr/PongEvolution/Terrains/ZoneChangementDirection.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="207" width="237" x="3259" y="5287"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="fr.PongEvolution.Main.ImageFadeInOut" project="Pong_Evolution" 
+    file="/Pong_Evolution/src/fr/PongEvolution/Main/ImageFadeInOut.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="765" width="251" x="704" y="-219"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="fr.PongEvolution.Terrains.ZoneEffet" project="Pong_Evolution" 
+    file="/Pong_Evolution/src/fr/PongEvolution/Terrains/ZoneEffet.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="197" x="3397" y="4878"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="fr.PongEvolution.Terrains.ZoneTeleportationTranslation" project="Pong_Evolution" 
+    file="/Pong_Evolution/src/fr/PongEvolution/Terrains/ZoneTeleportationTranslation.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="243" width="249" x="3536" y="5287"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="6" language="java" name="fr.PongEvolution.BoulesEnergie.Enum_ProprietaireBouleEnergie" 
+    project="Pong_Evolution" 
+    file="/Pong_Evolution/src/fr/PongEvolution/BoulesEnergie/Enum_ProprietaireBouleEnergie.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="153" width="258" x="358" y="4878"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="7" language="java" name="fr.PongEvolution.Raquettes.RaquetteVerticale" project="Pong_Evolution" 
+    file="/Pong_Evolution/src/fr/PongEvolution/Raquettes/RaquetteVerticale.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="207" width="553" x="1493" y="3335"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="fr.PongEvolution.Jeu.ElementDeJeu" project="Pong_Evolution" 
+    file="/Pong_Evolution/src/fr/PongEvolution/Jeu/ElementDeJeu.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="765" width="268" x="1390" y="-219"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="fr.PongEvolution.Raquettes.RaquetteIAHorizontale" project="Pong_Evolution" 
+    file="/Pong_Evolution/src/fr/PongEvolution/Raquettes/RaquetteIAHorizontale.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="117" width="561" x="2617" y="4878"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="fr.PongEvolution.BarreEnergie.BarreEnergie" project="Pong_Evolution" 
+    file="/Pong_Evolution/src/fr/PongEvolution/BarreEnergie/BarreEnergie.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="711" width="256" x="367" y="3335"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="fr.PongEvolution.BoulesEnergie.BouleEnergie" project="Pong_Evolution" 
+    file="/Pong_Evolution/src/fr/PongEvolution/BoulesEnergie/BouleEnergie.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="387" width="474" x="663" y="3335"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="12" language="java" name="fr.PongEvolution.Jeu.GameInterface" project="Pong_Evolution" 
+    file="/Pong_Evolution/src/fr/PongEvolution/Jeu/GameInterface.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="207" width="217" x="3140" y="3335"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="13" language="java" name="fr.PongEvolution.Balles.Balle" project="Pong_Evolution" 
+    file="/Pong_Evolution/src/fr/PongEvolution/Balles/Balle.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="405" width="423" x="2086" y="3335"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="fr.PongEvolution.Jeu.Scene" project="Pong_Evolution" 
+    file="/Pong_Evolution/src/fr/PongEvolution/Jeu/Scene.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="2709" width="432" x="2549" y="586"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="fr.PongEvolution.Raquettes.Raquette" project="Pong_Evolution" 
+    file="/Pong_Evolution/src/fr/PongEvolution/Raquettes/Raquette.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="1593" width="567" x="1390" y="586"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="fr.PongEvolution.Raquettes.RaquetteHorizontale" project="Pong_Evolution" 
+    file="/Pong_Evolution/src/fr/PongEvolution/Raquettes/RaquetteHorizontale.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="551" x="2549" y="3335"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="fr.PongEvolution.Raquettes.ConfigurationTouchesVerticale" 
+    project="Pong_Evolution" file="/Pong_Evolution/src/fr/PongEvolution/Raquettes/ConfigurationTouchesVerticale.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="207" width="248" x="327" y="5287"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="18" language="java" name="fr.PongEvolution.Balles.Enum_Raquette" project="Pong_Evolution" 
+    file="/Pong_Evolution/src/fr/PongEvolution/Balles/Enum_Raquette.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="209" x="2368" y="4878"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="19" language="java" name="fr.PongEvolution.Jeu.TimeEcouteur" project="Pong_Evolution" 
+    file="/Pong_Evolution/src/fr/PongEvolution/Jeu/TimeEcouteur.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="194" x="2549" y="-219"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="20" language="java" name="fr.PongEvolution.Main.Main" project="Pong_Evolution" 
+    file="/Pong_Evolution/src/fr/PongEvolution/Main/Main.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="113" x="1116" y="-219"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="21" language="java" name="fr.PongEvolution.Raquettes.RaquetteIAHorizontaleBarriere" 
+    project="Pong_Evolution" file="/Pong_Evolution/src/fr/PongEvolution/Raquettes/RaquetteIAHorizontaleBarriere.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="586" x="2617" y="5287"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="22" language="java" name="fr.PongEvolution.Raquettes.RaquetteIAVerticale" project="Pong_Evolution" 
+    file="/Pong_Evolution/src/fr/PongEvolution/Raquettes/RaquetteIAVerticale.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="548" x="1780" y="4878"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="23" language="java" name="fr.PongEvolution.Raquettes.ConfigurationTouches" project="Pong_Evolution" 
+    file="/Pong_Evolution/src/fr/PongEvolution/Raquettes/ConfigurationTouches.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="261" width="319" x="-1" y="4878"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="24" language="java" name="fr.PongEvolution.Raquettes.RaquetteIAVerticaleBarriere" project="Pong_Evolution" 
+    file="/Pong_Evolution/src/fr/PongEvolution/Raquettes/RaquetteIAVerticaleBarriere.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="99" width="573" x="1780" y="5287"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="25" language="java" name="fr.PongEvolution.Jeu.ConfigurationInteractionZoneEffetTerrain" 
+    project="Pong_Evolution" 
+    file="/Pong_Evolution/src/fr/PongEvolution/Jeu/ConfigurationInteractionZoneEffetTerrain.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="189" width="308" x="1432" y="4878"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="26" language="java" name="fr.PongEvolution.Raquettes.RaquetteClavierVerticale" project="Pong_Evolution" 
+    file="/Pong_Evolution/src/fr/PongEvolution/Raquettes/RaquetteClavierVerticale.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="171" width="736" x="656" y="4878"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="27" language="java" name="fr.PongEvolution.Terrains.Terrain" project="Pong_Evolution" 
+    file="/Pong_Evolution/src/fr/PongEvolution/Terrains/Terrain.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="405" width="299" x="3397" y="3335"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="28" language="java" name="fr.PongEvolution.Main.FenetreDeJeu" project="Pong_Evolution" 
+    file="/Pong_Evolution/src/fr/PongEvolution/Main/FenetreDeJeu.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="1503" width="363" x="3736" y="3335"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="29" language="java" name="fr.PongEvolution.Raquettes.Enum_DirBouleEnergie" project="Pong_Evolution" 
+    file="/Pong_Evolution/src/fr/PongEvolution/Raquettes/Enum_DirBouleEnergie.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="171" x="1177" y="3335"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="30" language="java" name="fr.PongEvolution.MusiqueSon.MusiqueMP3" project="Pong_Evolution" 
+    file="/Pong_Evolution/src/fr/PongEvolution/MusiqueSon/MusiqueMP3.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="369" width="173" x="3736" y="4878"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <association id="31">    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="32" name="CONFIG_ZE_TERRAIN_AUCUN_EFFET"/>      
+      <multiplicity id="33" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="25" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="34">    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="35" name="dirBouleEnergie_DEFAUT"/>      
+      <multiplicity id="36" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="29" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="37">    
+    <end type="SOURCE" refId="28" navigable="false">      
+      <attribute id="38" name="musiqueDeFond"/>      
+      <multiplicity id="39" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="30" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="40">    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="41" name="raquetteVD"/>      
+      <multiplicity id="42" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="43">    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="44" name="barreEnergie"/>      
+      <multiplicity id="45" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="46">    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="47" name="CONFIG_ZE_TERRAIN_DIRECTION_CHANGEABLE"/>      
+      <multiplicity id="48" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="25" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="49">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="4"/>  
+  </generalization>  
+  <association id="50">    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="51" name="CONFIG_ZE_TERRAIN_NORMALE"/>      
+      <multiplicity id="52" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="25" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="53">    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="54" name="directionBoulesEnergie"/>      
+      <multiplicity id="55" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="29" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="56">    
+    <end type="SOURCE" refId="24"/>    
+    <end type="TARGET" refId="22"/>  
+  </generalization>  
+  <association id="57">    
+    <bendpoint x="1462" y="3335"/>    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="58" name="CONFIG_BOULE_ENERGIE_ZE_TERRAIN_NORMALE"/>      
+      <multiplicity id="59" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="25" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="60">    
+    <bendpoint x="1420" y="3335"/>    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="61" name="CONFIG_BOULE_ENERGIE_ZE_TERRAIN_AUCUN_EFFET"/>      
+      <multiplicity id="62" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="25" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="63">    
+    <end type="SOURCE" refId="27" navigable="false">      
+      <attribute id="64" name="listeZonesEffet"/>      
+      <multiplicity id="65" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="66">    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="67" name="balle"/>      
+      <multiplicity id="68" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="13" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="69">    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="70" name="raquetteVG"/>      
+      <multiplicity id="71" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="72">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="12"/>  
+  </realization>  
+  <association id="73">    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="74" name="listeBoulesEnergie"/>      
+      <multiplicity id="75" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="76">    
+    <bendpoint x="1987" y="586"/>    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="8"/>  
+  </generalization>  
+  <association id="77">    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="78" name="proprietaire"/>      
+      <multiplicity id="79" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="80">    
+    <bendpoint x="1399" y="3335"/>    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="81" name="configurationInteractionBouleEnergieZoneEffetTerrain"/>      
+      <multiplicity id="82" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="25" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="83">    
+    <end type="SOURCE" refId="26"/>    
+    <end type="TARGET" refId="7"/>  
+  </generalization>  
+  <association id="84">    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="85" name="configIntZETerrain"/>      
+      <multiplicity id="86" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="25" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="87">    
+    <end type="SOURCE" refId="22"/>    
+    <end type="TARGET" refId="7"/>  
+  </generalization>  
+  <generalization id="88">    
+    <bendpoint x="1036" y="586"/>    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="8"/>  
+  </generalization>  
+  <association id="89">    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="90" name="raquetteDerniereCollision"/>      
+      <multiplicity id="91" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="18" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="92">    
+    <end type="SOURCE" refId="26" navigable="false">      
+      <attribute id="93" name="configurationTouchesVerticale"/>      
+      <multiplicity id="94" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="17" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="95">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="8"/>  
+  </generalization>  
+  <association id="96">    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="97" name="fenDeJeu"/>      
+      <multiplicity id="98" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="28" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="99">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="4"/>  
+  </generalization>  
+  <association id="100">    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="101" name="CONFIG_ZE_TERRAIN_TELEPORTABLE"/>      
+      <multiplicity id="102" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="25" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="103">    
+    <end type="SOURCE" refId="19" navigable="false">      
+      <attribute id="104" name="sc"/>      
+      <multiplicity id="105" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="14" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="106">    
+    <bendpoint x="1441" y="3335"/>    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="107" name="CONFIG_BOULE_ENERGIE_ZE_TERRAIN_TELEPORTABLE"/>      
+      <multiplicity id="108" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="25" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="109">    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="15"/>  
+  </generalization>  
+  <association id="110">    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="111" name="raquetteHB"/>      
+      <multiplicity id="112" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="16" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="113">    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="114" name="listeBoulesEnergie"/>      
+      <multiplicity id="115" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="116">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="16"/>  
+  </generalization>  
+  <generalization id="117">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="15"/>  
+  </generalization>  
+  <association id="118">    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="119" name="terrain"/>      
+      <multiplicity id="120" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="27" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="121">    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="9"/>  
+  </generalization>  
+  <association id="122">    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="123" name="raquetteHH"/>      
+      <multiplicity id="124" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="16" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="125">    
+    <bendpoint x="1378" y="3335"/>    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="126" name="CONFIG_BOULE_ENERGIE_ZE_TERRAIN_DIRECTION_CHANGEABLE"/>      
+      <multiplicity id="127" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="25" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="128">    
+    <end type="SOURCE" refId="17"/>    
+    <end type="TARGET" refId="23"/>  
+  </generalization>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

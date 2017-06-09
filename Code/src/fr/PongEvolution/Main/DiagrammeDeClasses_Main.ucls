@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.10" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="fr.PongEvolution.Main.Main" project="Pong_Evolution" 
+    file="/Pong_Evolution/src/fr/PongEvolution/Main/Main.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="113" x="196" y="-464"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="fr.PongEvolution.Main.ImageFadeInOut" project="Pong_Evolution" 
+    file="/Pong_Evolution/src/fr/PongEvolution/Main/ImageFadeInOut.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="765" width="251" x="349" y="-464"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="fr.PongEvolution.Main.FenetreDeJeu" project="Pong_Evolution" 
+    file="/Pong_Evolution/src/fr/PongEvolution/Main/FenetreDeJeu.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="1521" width="363" x="640" y="-464"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
